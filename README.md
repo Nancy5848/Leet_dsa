@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/0002-add-two-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nancy5848/Leet_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0112-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
