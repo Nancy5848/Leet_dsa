@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nancy5848/Leet_dsa/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nancy5848/Leet_dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nancy5848/Leet_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nancy5848/Leet_dsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
