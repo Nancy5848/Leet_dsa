@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nancy5848/Leet_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
 ## Design
@@ -178,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
