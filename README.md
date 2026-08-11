@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Nancy5848/Leet_dsa/tree/master/2427-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nancy5848/Leet_dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
