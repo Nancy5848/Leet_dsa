@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
+| [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0409-longest-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0409-longest-palindrome) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
+| [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
+| [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
