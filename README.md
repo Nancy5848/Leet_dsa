@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nancy5848/Leet_dsa/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nancy5848/Leet_dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -284,8 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
