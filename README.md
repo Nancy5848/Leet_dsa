@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nancy5848/Leet_dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nancy5848/Leet_dsa/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Nancy5848/Leet_dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Nancy5848/Leet_dsa/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nancy5848/Leet_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nancy5848/Leet_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nancy5848/Leet_dsa/tree/master/0342-power-of-four) |
