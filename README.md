@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nancy5848/Leet_dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nancy5848/Leet_dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nancy5848/Leet_dsa/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Nancy5848/Leet_dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nancy5848/Leet_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nancy5848/Leet_dsa/tree/master/0342-power-of-four) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Nancy5848/Leet_dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nancy5848/Leet_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
