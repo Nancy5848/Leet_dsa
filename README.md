@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nancy5848/Leet_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nancy5848/Leet_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nancy5848/Leet_dsa/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nancy5848/Leet_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nancy5848/Leet_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 ## Bracket Sequences
@@ -360,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
