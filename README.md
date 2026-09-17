@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nancy5848/Leet_dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nancy5848/Leet_dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nancy5848/Leet_dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Nancy5848/Leet_dsa/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Nancy5848/Leet_dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nancy5848/Leet_dsa/tree/master/0326-power-of-three) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nancy5848/Leet_dsa/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Nancy5848/Leet_dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Sorting
