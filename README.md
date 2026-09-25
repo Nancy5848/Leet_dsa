@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nancy5848/Leet_dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Nancy5848/Leet_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Nancy5848/Leet_dsa/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Nancy5848/Leet_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nancy5848/Leet_dsa/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Nancy5848/Leet_dsa/tree/master/0836-rectangle-overlap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Nancy5848/Leet_dsa/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nancy5848/Leet_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nancy5848/Leet_dsa/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
