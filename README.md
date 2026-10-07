@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nancy5848/Leet_dsa/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0409-longest-palindrome) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nancy5848/Leet_dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nancy5848/Leet_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nancy5848/Leet_dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nancy5848/Leet_dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nancy5848/Leet_dsa/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0301-remove-invalid-parentheses) |
 ## String Matching
 |  |
 | ------- |
