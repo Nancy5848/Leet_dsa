@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nancy5848/Leet_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Nancy5848/Leet_dsa/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/Nancy5848/Leet_dsa/tree/master/2427-number-of-common-factors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nancy5848/Leet_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nancy5848/Leet_dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nancy5848/Leet_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/Nancy5848/Leet_dsa/tree/master/3871-count-commas-in-range-ii) |
