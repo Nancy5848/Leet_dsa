@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Nancy5848/Leet_dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nancy5848/Leet_dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nancy5848/Leet_dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nancy5848/Leet_dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
