@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2937-make-three-strings-equal](https://github.com/Nancy5848/Leet_dsa/tree/master/2937-make-three-strings-equal) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nancy5848/Leet_dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
