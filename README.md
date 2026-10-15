@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nancy5848/Leet_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nancy5848/Leet_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/3731-find-missing-elements) |
 ## String
@@ -477,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nancy5848/Leet_dsa/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
