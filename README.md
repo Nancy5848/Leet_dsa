@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nancy5848/Leet_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nancy5848/Leet_dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
