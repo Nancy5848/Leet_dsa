@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nancy5848/Leet_dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Nancy5848/Leet_dsa/tree/master/2409-count-days-spent-together) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2937-make-three-strings-equal](https://github.com/Nancy5848/Leet_dsa/tree/master/2937-make-three-strings-equal) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nancy5848/Leet_dsa/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Nancy5848/Leet_dsa/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2409-count-days-spent-together](https://github.com/Nancy5848/Leet_dsa/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Nancy5848/Leet_dsa/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nancy5848/Leet_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
