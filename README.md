@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
+| [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
 | [1732-find-the-highest-altitude](https://github.com/Nancy5848/Leet_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nancy5848/Leet_dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nancy5848/Leet_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nancy5848/Leet_dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
 ## Newton's Method
 |  |
 | ------- |
@@ -512,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Nancy5848/Leet_dsa/tree/master/1732-find-the-highest-altitude) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
