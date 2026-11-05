@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/Nancy5848/Leet_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nancy5848/Leet_dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nancy5848/Leet_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nancy5848/Leet_dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nancy5848/Leet_dsa/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nancy5848/Leet_dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Nancy5848/Leet_dsa/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nancy5848/Leet_dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/3536-maximum-product-of-two-digits) |
