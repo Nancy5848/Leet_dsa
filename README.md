@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nancy5848/Leet_dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Nancy5848/Leet_dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nancy5848/Leet_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
+| [2747-count-zero-request-servers](https://github.com/Nancy5848/Leet_dsa/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nancy5848/Leet_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nancy5848/Leet_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nancy5848/Leet_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nancy5848/Leet_dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2747-count-zero-request-servers](https://github.com/Nancy5848/Leet_dsa/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nancy5848/Leet_dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Nancy5848/Leet_dsa/tree/master/2747-count-zero-request-servers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nancy5848/Leet_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
