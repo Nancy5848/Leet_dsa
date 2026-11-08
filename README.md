@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/Nancy5848/Leet_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/Nancy5848/Leet_dsa/tree/master/1882-process-tasks-using-servers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nancy5848/Leet_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nancy5848/Leet_dsa/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 ## Bracket Sequences
 |  |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nancy5848/Leet_dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nancy5848/Leet_dsa/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 ## Newton's Method
 |  |
 | ------- |
@@ -553,4 +558,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nancy5848/Leet_dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Nancy5848/Leet_dsa/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
