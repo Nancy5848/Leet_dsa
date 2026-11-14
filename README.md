@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nancy5848/Leet_dsa/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Nancy5848/Leet_dsa/tree/master/0217-contains-duplicate) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nancy5848/Leet_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nancy5848/Leet_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Nancy5848/Leet_dsa/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Nancy5848/Leet_dsa/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Nancy5848/Leet_dsa/tree/master/0457-circular-array-loop) |
 | [0745-prefix-and-suffix-search](https://github.com/Nancy5848/Leet_dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Nancy5848/Leet_dsa/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Nancy5848/Leet_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nancy5848/Leet_dsa/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Nancy5848/Leet_dsa/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Nancy5848/Leet_dsa/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nancy5848/Leet_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
