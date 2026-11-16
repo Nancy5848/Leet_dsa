@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nancy5848/Leet_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Nancy5848/Leet_dsa/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nancy5848/Leet_dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nancy5848/Leet_dsa/tree/master/2409-count-days-spent-together) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nancy5848/Leet_dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2937-make-three-strings-equal](https://github.com/Nancy5848/Leet_dsa/tree/master/2937-make-three-strings-equal) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nancy5848/Leet_dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Nancy5848/Leet_dsa/tree/master/0258-add-digits) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Nancy5848/Leet_dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nancy5848/Leet_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nancy5848/Leet_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nancy5848/Leet_dsa/tree/master/3498-reverse-degree-of-a-string) |
